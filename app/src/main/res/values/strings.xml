@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Application_Google_Auth</string>
+    <string name="default_web_client_id">802976955678-k8gaao1h6duh4n31f40f87jli6j8ne80.apps.googleusercontent.com</string>
 </resources>
