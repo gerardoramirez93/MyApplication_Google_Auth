@@ -1,5 +1,5 @@
-# My_Application_Foro1_DSM_UDB
-Tienda en línea con funciones básicas para añadir a carrito, ver catálogo y realizar pago
+# My_Application_Google_Auth
+Autenticación con servicios de Google
 
 # Integrantes:
 - Ardon Martinez, Marlin José AM120254
